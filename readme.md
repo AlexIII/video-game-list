@@ -177,7 +177,7 @@
 - Gameplay: ⭐⭐⭐
 - Engagement: ⭐⭐
 
-#### `Outer Wilds (2019, PC)                    ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐❤️❤️`
+#### `Outer Wilds (+DLC EotE) (2019, PC)        ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐❤️❤️`
 
 - Visuals/Sound: ⭐⭐
 - Story: ⭐⭐⭐❤️
