@@ -203,7 +203,7 @@
 [PC] [not finished, >50%]
 
 - Visuals/Sound:
-- Story: not even
+- Story:
 - Gameplay: ⭐⭐⭐
 - Engagement: ⭐⭐
 
@@ -216,9 +216,9 @@
 - Gameplay: ⭐⭐
 - Engagement: ⭐⭐⭐❤️
 
-#### Outer Worlds (2019)
+#### Outer Worlds (2019)                ⭐⭐⭐⭐⭐⭐
 
-[PC]                                    ⭐⭐⭐⭐⭐⭐
+[PC]
 
 - Visuals/Sound: ⭐
 - Story: ⭐
@@ -367,9 +367,9 @@
 - Gameplay: ⭐⭐⭐
 - Engagement: ⭐⭐⭐❤️
 
-#### Fallout 3, 4, New Vegas
+#### Fallout 3, 4, New Vegas            ⭐⭐⭐⭐⭐⭐⭐⭐❤️❤️
 
-[PC]                                    ⭐⭐⭐⭐⭐⭐⭐⭐❤️❤️
+[PC]
 
 - Visuals/Sound: ⭐
 - Story: ⭐⭐
