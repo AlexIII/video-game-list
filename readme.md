@@ -6,117 +6,101 @@
 
 ### 2025
 
-#### Mirror's Edge (2008)               ⭐⭐⭐⭐
+#### `Mirror's Edge (2008, PC)                  ⭐⭐⭐⭐`
 
-[PC] [replayed - first played 2008]
+[replayed - first played 2008]
 
 - Visuals/Sound: ⭐
 - Story:
 - Gameplay: ⭐⭐
 - Engagement: ⭐
 
-#### Titan Station (2022)               ⭐
-
-[PC]
+#### `Titan Station (2022, PC)                  ⭐`
 
 - Visuals/Sound:
 - Story:
 - Gameplay:
 - Engagement: ⭐
 
-#### SOMA (2015)                        ⭐⭐⭐⭐⭐❤️
-
-[PC]
+#### `SOMA (2015, PC)                           ⭐⭐⭐⭐⭐❤️`
 
 - Visuals/Sound: ⭐⭐
 - Story: ⭐⭐❤️
 - Gameplay:
 - Engagement: ⭐
 
-#### Titanfall 2 (2016)                 ⭐⭐⭐⭐⭐
-
-[PC]
+#### `Titanfall 2 (2016, PC)                    ⭐⭐⭐⭐⭐`
 
 - Visuals/Sound: ⭐
 - Story: ⭐
 - Gameplay: ⭐
 - Engagement: ⭐⭐
 
-#### Still Wakes the Deep (2024)        ⭐⭐⭐⭐
-
-[PC]
+#### `Still Wakes the Deep (2024, PC)           ⭐⭐⭐⭐`
 
 - Visuals/Sound: ⭐⭐
 - Story: ⭐
 - Gameplay:
 - Engagement: ⭐
 
-#### The Invincible (2023)              ⭐⭐⭐⭐⭐
-
-[PC]
+#### `The Invincible (2023, PC)                 ⭐⭐⭐⭐⭐`
 
 - Visuals/Sound: ⭐⭐
 - Story: ⭐⭐
 - Gameplay:
 - Engagement: ⭐
 
-#### Poppy Playtime 1,2,3 (2021)        ⭐⭐
-
-[PC]
+#### `Poppy Playtime 1,2,3 (2021, PC)           ⭐⭐`
 
 - Visuals/Sound: ⭐
 - Story:
 - Gameplay:
 - Engagement: ⭐
 
-#### Indigo Park (2023)                 ⭐⭐
+#### `Indigo Park (2023, PC)                    ⭐⭐`
 
-[PC] [short]
+[short]
 
 - Visuals/Sound:
 - Story: ⭐
 - Gameplay:
 - Engagement: ⭐
 
-#### Sheepy: A Short Adventure (2023)   ⭐⭐⭐⭐⭐❤️
+#### `Sheepy: A Short Adventure (2023, PC)      ⭐⭐⭐⭐⭐❤️`
 
-[PC] [short]
+[short]
 
 - Visuals/Sound: ⭐⭐❤️
 - Story: ⭐
 - Gameplay: ⭐
 - Engagement: ⭐
 
-#### Tails Noir: Prologue (2022)        ⭐⭐⭐⭐
+#### `Tails Noir: Prologue (2022, PC)           ⭐⭐⭐⭐`
 
-[PC] [short]
+[short]
 
 - Visuals/Sound: ⭐
 - Story: ⭐⭐
 - Gameplay:
 - Engagement: ⭐
 
-#### Half-Life 2, EP1, EP2 (2004)       ⭐⭐⭐⭐⭐⭐⭐❤️
+#### `Half-Life 2, EP1, EP2 (2004, PC)          ⭐⭐⭐⭐⭐⭐⭐❤️`
 
-[PC] [replayed - first played 2007]
+[replayed - first played 2007]
 
 - Visuals/Sound: ⭐
 - Story: ⭐
 - Gameplay: ⭐⭐
 - Engagement: ⭐⭐⭐❤️
 
-#### Black Mesa (2020)                  ⭐⭐⭐⭐⭐⭐
-
-[PC]
+#### `Black Mesa (2020, PC)                     ⭐⭐⭐⭐⭐⭐`
 
 - Visuals/Sound: ⭐⭐
 - Story:
 - Gameplay: ⭐⭐
 - Engagement: ⭐⭐
 
-#### Cry of Fear (2013)                 ⭐
-
-[PC]
+#### `Cry of Fear (2013, PC)                    ⭐`
 
 - Visuals/Sound: ⭐
 - Story:
@@ -126,108 +110,90 @@
 
 ### 2024
 
-#### Faith The Unholy Trinity (2017)    ⭐⭐⭐⭐⭐⭐⭐❤️
-
-[PC]
+#### `Faith The Unholy Trinity (2017, PC)       ⭐⭐⭐⭐⭐⭐⭐❤️`
 
 - Visuals/Sound: ⭐⭐❤️
 - Story: ⭐⭐⭐
 - Gameplay:
 - Engagement: ⭐⭐
 
-#### Cocoon (2023)                      ⭐⭐⭐⭐
-
-[PC]
+#### `Cocoon (2023, PC)                         ⭐⭐⭐⭐`
 
 - Visuals/Sound: ⭐
 - Story:
 - Gameplay: ⭐
 - Engagement: ⭐⭐
 
-#### The Talos Principle 2 (2023)       ⭐⭐⭐⭐
+#### `The Talos Principle 2 (2023, PC)          ⭐⭐⭐⭐`
 
-[PC] [not finished, >80%]
+[not finished, >80%]
 
 - Visuals/Sound: ⭐
 - Story:
 - Gameplay: ⭐
 - Engagement: ⭐⭐
 
-#### Song Of Nunu (2023)                ⭐⭐
-
-[PC]
+#### `Song Of Nunu (2023, PC)                   ⭐⭐`
 
 - Visuals/Sound:
 - Story:
 - Gameplay: ⭐
 - Engagement: ⭐
 
-#### Jusant (2023)                      ⭐⭐⭐⭐
-
-[PC]
+#### `Jusant (2023, PC)                         ⭐⭐⭐⭐`
 
 - Visuals/Sound: ⭐⭐
 - Story:
 - Gameplay: ⭐
 - Engagement: ⭐
 
-#### Portal: Revolution (2024)          ⭐⭐⭐⭐⭐⭐
-
-[PC]
+#### `Portal: Revolution (2024, PC)             ⭐⭐⭐⭐⭐⭐`
 
 - Visuals/Sound: ⭐
 - Story: ⭐
 - Gameplay: ⭐⭐
 - Engagement: ⭐⭐
 
-#### Oneshot (2016)                     ⭐⭐⭐⭐⭐⭐⭐⭐❤️
-
-[PC]
+#### `Oneshot (2016, PC)                        ⭐⭐⭐⭐⭐⭐⭐⭐❤️`
 
 - Visuals/Sound: ⭐⭐
 - Story: ⭐⭐⭐❤️
 - Gameplay:
 - Engagement: ⭐⭐⭐
 
-#### Nine Sols (2023)                   ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐❤️❤️
-
-[PC]
+#### `Nine Sols (2023, PC)                      ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐❤️❤️`
 
 - Visuals/Sound: ⭐⭐⭐
 - Story: ⭐⭐⭐
 - Gameplay: ⭐⭐❤️
 - Engagement: ⭐⭐⭐❤️
 
-#### Baba is You (2019)                 ⭐⭐⭐⭐⭐
+#### `Baba is You (2019, PC)                    ⭐⭐⭐⭐⭐`
 
-[PC] [not finished, >50%]
+[not finished, >50%]
 
 - Visuals/Sound:
 - Story:
 - Gameplay: ⭐⭐⭐
 - Engagement: ⭐⭐
 
-#### Outer Wilds (2019)                 ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐❤️❤️
-
-[PC]
+#### `Outer Wilds (2019, PC)                    ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐❤️❤️`
 
 - Visuals/Sound: ⭐⭐
 - Story: ⭐⭐⭐❤️
 - Gameplay: ⭐⭐
 - Engagement: ⭐⭐⭐❤️
 
-#### Outer Worlds (2019)                ⭐⭐⭐⭐⭐⭐
-
-[PC]
+#### `Outer Worlds (2019, PC)                   ⭐⭐⭐⭐⭐⭐`
 
 - Visuals/Sound: ⭐
 - Story: ⭐
 - Gameplay: ⭐⭐
 - Engagement: ⭐⭐
 
-#### SIGNALIS (2022)                    ⭐⭐
+#### `SIGNALIS (2022, PC)                       ⭐⭐`
 
-[PC] [not finished]
+[not finished, >50%]
 
 - Visuals/Sound: ⭐
 - Story: ⭐⭐
@@ -236,27 +202,23 @@
 
 ### 2023
 
-#### The Turing Test (2016)             ⭐⭐⭐⭐⭐⭐
-
-[PC]
+#### `The Turing Test (2016, PC)                ⭐⭐⭐⭐⭐⭐`
 
 - Visuals/Sound: ⭐
 - Story: ⭐
 - Gameplay: ⭐⭐
 - Engagement: ⭐⭐
 
-#### Stray (2022)                       ⭐⭐⭐⭐⭐⭐⭐
-
-[PC]
+#### `Stray (2022, PC)                          ⭐⭐⭐⭐⭐⭐⭐`
 
 - Visuals/Sound: ⭐⭐
 - Story: ⭐
 - Gameplay: ⭐⭐
 - Engagement: ⭐⭐
 
-#### Animal Well (2023)                 ⭐⭐⭐⭐
+#### `Animal Well (2023, PC)                    ⭐⭐⭐⭐`
 
-[PC] [Dropped, to had for me]
+[not finished, >50%]
 
 - Visuals/Sound: ⭐⭐
 - Story:
@@ -265,18 +227,14 @@
 
 ### 2022
 
-#### Pode (2018)                        ⭐⭐⭐⭐
-
-[PC]
+#### `Pode (2018, PC)                           ⭐⭐⭐⭐`
 
 - Visuals/Sound: ⭐
 - Story:
 - Gameplay: ⭐
 - Engagement: ⭐⭐
 
-#### Beacon Pines (2022)                ⭐⭐⭐⭐⭐⭐
-
-[Switch]
+#### `Beacon Pines (2022, Switch)               ⭐⭐⭐⭐⭐⭐`
 
 - Visuals/Sound: ⭐
 - Story: ⭐⭐
@@ -284,54 +242,46 @@
 - Engagement: ⭐⭐⭐
 
 
-#### Sonic Frontiers                    ⭐⭐⭐⭐⭐⭐⭐
-
-[Switch]
+#### `Sonic Frontiers (2022, Switch)            ⭐⭐⭐⭐⭐⭐⭐`
 
 - Visuals/Sound: ⭐⭐
 - Story: ⭐
 - Gameplay: ⭐⭐
 - Engagement: ⭐⭐
 
-#### Kirby and the Forgotten Land (2022)    ⭐⭐⭐⭐
-
-[Switch]
+#### `Kirby and the Forgotten Land (2022, Switch)   ⭐⭐⭐⭐`
 
 - Visuals/Sound: ⭐
 - Story:
 - Gameplay: ⭐
 - Engagement: ⭐⭐
 
-#### Ori 1, 2 (2015, 2020)              ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐❤️❤️
+#### `Ori 1, 2 (2015, 2020, PC)                 ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐❤️❤️`
 
-[PC] [replayed - first played 2021]
+[replayed - first played 2021]
 
 - Visuals/Sound: ⭐⭐⭐
 - Story: ⭐⭐
 - Gameplay: ⭐⭐⭐❤️
 - Engagement: ⭐⭐⭐❤️
 
-#### Pokémon Legends: Arceus (2022)     ⭐⭐
-
-[Switch]
+#### `Pokémon Legends: Arceus (2022, Switch)    ⭐⭐`
 
 - Visuals/Sound:
 - Story:
 - Gameplay: ⭐
 - Engagement: ⭐
 
-#### Zelda BOTW (2017)                  ⭐⭐⭐⭐⭐⭐⭐❤️
+#### `Zelda BOTW (2017, Switch)                 ⭐⭐⭐⭐⭐⭐⭐❤️`
 
-[Switch] [not finished, >80%] 
+[not finished, >80%] 
 
 - Visuals/Sound: ⭐
 - Story: ⭐
 - Gameplay: ⭐⭐
 - Engagement: ⭐⭐⭐❤️
 
-#### Pokémon Super Mystery Dungeon (2016)   ⭐⭐⭐⭐⭐
-
-[3DS]
+#### `Pokémon Super Mystery Dungeon (2016, 3DS) ⭐⭐⭐⭐⭐`
 
 - Visuals/Sound:
 - Story: ⭐⭐
@@ -340,45 +290,35 @@
 
 ### <= 2021
 
-#### Deponia 1,2,3,4 (2012-2016)        ⭐⭐⭐⭐⭐⭐⭐⭐❤️
-
-[PC]
+#### `Deponia 1,2,3,4 (2012-2016, PC)           ⭐⭐⭐⭐⭐⭐⭐⭐❤️`
 
 - Visuals/Sound: ⭐⭐
 - Story: ⭐⭐
 - Gameplay: ⭐
 - Engagement: ⭐⭐⭐❤️
 
-#### Phoenix Wright: Ace Attorney 1,2,3 (2001, 2006, 2007)  ⭐⭐⭐⭐⭐⭐⭐⭐❤️
-
-[DS]
+#### `Phoenix Wright: Ace Attorney 1,2,3 (2001, 2006, 2007, DS)  ⭐⭐⭐⭐⭐⭐⭐⭐❤️`
 
 - Visuals/Sound: ⭐
 - Story: ⭐⭐⭐
 - Gameplay:
 - Engagement: ⭐⭐⭐❤️
 
-#### Mega Man ZX and ZX Advent (2007)   ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐❤️❤️
-
-[DS]
+#### `Mega Man ZX and ZX Advent (2007, DS)      ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐❤️❤️`
 
 - Visuals/Sound: ⭐⭐⭐❤️
 - Story: ⭐
 - Gameplay: ⭐⭐⭐
 - Engagement: ⭐⭐⭐❤️
 
-#### Fallout 3, 4, New Vegas            ⭐⭐⭐⭐⭐⭐⭐⭐❤️❤️
-
-[PC]
+#### `Fallout 3, 4, New Vegas (PC)              ⭐⭐⭐⭐⭐⭐⭐⭐❤️❤️`
 
 - Visuals/Sound: ⭐
 - Story: ⭐⭐
 - Gameplay: ⭐⭐❤️
 - Engagement: ⭐⭐⭐❤️
 
-#### Portal 1,2                         ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐❤️❤️
-
-[PC]
+#### `Portal 1,2 (PC)                           ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐❤️❤️`
 
 - Visuals/Sound: ⭐⭐
 - Story: ⭐⭐⭐❤️
