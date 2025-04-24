@@ -121,6 +121,15 @@
 - Gameplay:
 - Engagement:
 
+#### `Journey (2020, PC)                        ⭐⭐⭐`
+
+[short]
+
+- Visuals/Sound: ⭐
+- Story:
+- Gameplay: ⭐
+- Engagement: ⭐
+
 
 ### 2024
 
