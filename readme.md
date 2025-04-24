@@ -50,6 +50,13 @@
 - Gameplay:
 - Engagement: ⭐
 
+#### `Viewfinder (2023, PC)                     ⭐⭐⭐⭐⭐⭐`
+
+- Visuals/Sound: ⭐⭐
+- Story: ⭐
+- Gameplay: ⭐⭐
+- Engagement: ⭐
+
 #### `The Invincible (2023, PC)                 ⭐⭐⭐⭐⭐`
 
 - Visuals/Sound: ⭐⭐
