@@ -6,6 +6,13 @@
 
 ### 2025
 
+#### `A Story About My Uncle (2014, PC)         ⭐⭐⭐⭐⭐⭐⭐⭐`
+
+- Visuals/Sound: ⭐⭐
+- Story: ⭐
+- Gameplay: ⭐⭐⭐
+- Engagement: ⭐⭐
+
 #### `Valley (2016, PC)                         ⭐⭐⭐⭐⭐⭐⭐`
 
 - Visuals/Sound: ⭐⭐
@@ -361,6 +368,7 @@
 - Obduction (2016) [PC]
 - Atomfall (2023) [PC]
 - Astro Bot (2023) [PS5]
+- Fe (2018)
 
 ## In progress
 
