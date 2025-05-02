@@ -6,6 +6,13 @@
 
 ### 2025
 
+#### `Rime (2017 , PC)                          ⭐⭐⭐⭐`
+
+- Visuals/Sound: ⭐
+- Story: ⭐
+- Gameplay: ⭐
+- Engagement: ⭐
+
 #### `A Story About My Uncle (2014, PC)         ⭐⭐⭐⭐⭐⭐⭐⭐`
 
 - Visuals/Sound: ⭐⭐
