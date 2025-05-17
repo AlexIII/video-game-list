@@ -6,6 +6,13 @@
 
 ### 2025
 
+#### `SANABI (2023, PC)                      ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐❤️❤️`
+
+- Visuals/Sound: ⭐⭐⭐❤️
+- Story: ⭐⭐
+- Gameplay: ⭐⭐⭐❤️
+- Engagement: ⭐⭐⭐
+
 #### `Rime (2017 , PC)                          ⭐⭐⭐⭐`
 
 - Visuals/Sound: ⭐
