@@ -6,6 +6,13 @@
 
 ### 2025
 
+#### `Superliminal (2019, PC)               ⭐⭐⭐`
+
+- Visuals/Sound: ⭐
+- Story:
+- Gameplay: ⭐
+- Engagement: ⭐
+
 #### `SANABI (2023, PC)                      ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐❤️❤️`
 
 - Visuals/Sound: ⭐⭐⭐❤️
