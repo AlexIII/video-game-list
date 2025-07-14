@@ -6,21 +6,21 @@
 
 ### 2025
 
-#### `Haak (2022, PC)                       ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐❤️`
+#### `Haak (2022, PC)                           ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐❤️`
 
 - Visuals/Sound: ⭐
 - Story: ⭐⭐⭐
 - Gameplay: ⭐⭐⭐❤️
 - Engagement: ⭐⭐⭐
 
-#### `Superliminal (2019, PC)               ⭐⭐⭐`
+#### `Superliminal (2019, PC)                   ⭐⭐⭐`
 
 - Visuals/Sound: ⭐
 - Story:
 - Gameplay: ⭐
 - Engagement: ⭐
 
-#### `SANABI (2023, PC)                      ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐❤️❤️`
+#### `SANABI (2023, PC)                         ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐❤️❤️`
 
 - Visuals/Sound: ⭐⭐⭐❤️
 - Story: ⭐⭐
@@ -260,9 +260,16 @@
 
 ### 2023
 
-#### `The Turing Test (2016, PC)                ⭐⭐⭐⭐⭐⭐`
+#### `The Entropy Centre (2022, PC)             ⭐⭐⭐⭐⭐⭐⭐⭐`
 
-- Visuals/Sound: ⭐
+- Visuals/Sound: ⭐⭐
+- Story: ⭐⭐
+- Gameplay: ⭐⭐
+- Engagement: ⭐⭐
+
+#### `The Turing Test (2016, PC)                ⭐⭐⭐⭐⭐`
+
+- Visuals/Sound:
 - Story: ⭐
 - Gameplay: ⭐⭐
 - Engagement: ⭐⭐
