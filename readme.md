@@ -6,6 +6,13 @@
 
 ### 2025
 
+#### `Haak (2022, PC)                       ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐❤️`
+
+- Visuals/Sound: ⭐
+- Story: ⭐⭐⭐
+- Gameplay: ⭐⭐⭐❤️
+- Engagement: ⭐⭐⭐
+
 #### `Superliminal (2019, PC)               ⭐⭐⭐`
 
 - Visuals/Sound: ⭐
@@ -390,9 +397,5 @@
 - Atomfall (2023) [PC]
 - Astro Bot (2023) [PS5]
 - Fe (2018)
-
-## In progress
-
 - New Tales from the Borderlands (2022) [PC]
-- Dead Space (2008) [PC] [replay]
 - Deliver Us The Moon (2018) [PC]
