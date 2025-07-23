@@ -6,6 +6,13 @@
 
 ### 2025
 
+#### `Some Distant Memory (2019, PC)            ⭐⭐⭐⭐`
+
+- Visuals/Sound: ⭐⭐
+- Story: ⭐
+- Gameplay:
+- Engagement: ⭐
+
 #### `Haak (2022, PC)                           ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐❤️`
 
 - Visuals/Sound: ⭐
