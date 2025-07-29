@@ -6,6 +6,13 @@
 
 ### 2025
 
+#### `Lightmatter (2020, PC)                    ⭐⭐⭐⭐⭐`
+
+- Visuals/Sound: ⭐⭐
+- Story: ⭐
+- Gameplay: ⭐
+- Engagement: ⭐
+
 #### `Some Distant Memory (2019, PC)            ⭐⭐⭐⭐`
 
 - Visuals/Sound: ⭐⭐
