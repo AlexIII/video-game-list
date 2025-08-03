@@ -6,6 +6,15 @@
 
 ### 2025
 
+#### `Purrgatory (2021, PC)                    ⭐⭐⭐⭐⭐⭐⭐⭐⭐❤️`
+
+[short]
+
+- Visuals/Sound: ⭐⭐
+- Story: ⭐⭐⭐❤️
+- Gameplay: ⭐
+- Engagement: ⭐⭐⭐
+
 #### `Lightmatter (2020, PC)                    ⭐⭐⭐⭐⭐`
 
 - Visuals/Sound: ⭐⭐
