@@ -6,15 +6,21 @@
 
 ### 2025
 
-#### `Manifold Garden (2019, PC)               ⭐⭐⭐⭐⭐`
+#### `Gorogoa (2017, PC)                        ⭐⭐⭐⭐⭐`
+
+- Visuals/Sound: ⭐⭐
+- Story:
+- Gameplay: ⭐⭐
+- Engagement: ⭐
+
+#### `Manifold Garden (2019, PC)                ⭐⭐⭐⭐⭐`
 
 - Visuals/Sound: ⭐
 - Story:
 - Gameplay: ⭐⭐
 - Engagement: ⭐⭐
 
-
-#### `Purrgatory (2021, PC)                    ⭐⭐⭐⭐⭐⭐⭐⭐⭐❤️`
+#### `Purrgatory (2021, PC)                     ⭐⭐⭐⭐⭐⭐⭐⭐⭐❤️`
 
 [short]
 
