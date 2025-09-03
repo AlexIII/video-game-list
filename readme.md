@@ -6,6 +6,13 @@
 
 ### 2025
 
+#### `Sword of the Sea (2025, PC)               ⭐⭐⭐⭐⭐`
+
+- Visuals/Sound: ⭐⭐
+- Story:
+- Gameplay: ⭐
+- Engagement: ⭐⭐
+
 #### `Gorogoa (2017, PC)                        ⭐⭐⭐⭐⭐`
 
 - Visuals/Sound: ⭐⭐
