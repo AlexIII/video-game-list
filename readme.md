@@ -115,12 +115,12 @@
 - Gameplay:
 - Engagement: ⭐
 
-#### `SOMA (2015, PC)                           ⭐⭐⭐⭐⭐❤️`
+#### `SOMA (2015, PC)                           ⭐⭐⭐⭐⭐⭐❤️`
 
 - Visuals/Sound: ⭐⭐
 - Story: ⭐⭐❤️
 - Gameplay:
-- Engagement: ⭐
+- Engagement: ⭐⭐
 
 #### `Titanfall 2 (2016, PC)                    ⭐⭐⭐⭐⭐`
 
@@ -166,11 +166,11 @@
 - Gameplay:
 - Engagement: ⭐
 
-#### `Sheepy: A Short Adventure (2023, PC)      ⭐⭐⭐⭐⭐❤️`
+#### `Sheepy: A Short Adventure (2023, PC)      ⭐⭐⭐⭐⭐⭐❤️`
 
 [short]
 
-- Visuals/Sound: ⭐⭐❤️
+- Visuals/Sound: ⭐⭐⭐❤️
 - Story: ⭐
 - Gameplay: ⭐
 - Engagement: ⭐
@@ -219,9 +219,9 @@
 
 ### 2024
 
-#### `Faith The Unholy Trinity (2017, PC)       ⭐⭐⭐⭐⭐⭐⭐❤️`
+#### `Faith The Unholy Trinity (2017, PC)       ⭐⭐⭐⭐⭐⭐⭐⭐❤️`
 
-- Visuals/Sound: ⭐⭐❤️
+- Visuals/Sound: ⭐⭐⭐❤️
 - Story: ⭐⭐⭐
 - Gameplay:
 - Engagement: ⭐⭐
@@ -263,9 +263,9 @@
 - Gameplay: ⭐⭐
 - Engagement: ⭐⭐
 
-#### `Oneshot (2016, PC)                        ⭐⭐⭐⭐⭐⭐⭐⭐❤️`
+#### `Oneshot (2016, PC)                        ⭐⭐⭐⭐⭐⭐⭐⭐⭐❤️`
 
-- Visuals/Sound: ⭐⭐
+- Visuals/Sound: ⭐⭐⭐
 - Story: ⭐⭐⭐❤️
 - Gameplay:
 - Engagement: ⭐⭐⭐
@@ -286,9 +286,9 @@
 - Gameplay: ⭐⭐⭐
 - Engagement: ⭐⭐
 
-#### `Outer Wilds (+DLC EotE) (2019, PC)        ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐❤️❤️`
+#### `Outer Wilds (+DLC EotE) (2019, PC)        ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐❤️❤️`
 
-- Visuals/Sound: ⭐⭐
+- Visuals/Sound: ⭐⭐⭐
 - Story: ⭐⭐⭐❤️
 - Gameplay: ⭐⭐
 - Engagement: ⭐⭐⭐❤️
@@ -413,9 +413,9 @@
 - Gameplay: ⭐
 - Engagement: ⭐⭐⭐❤️
 
-#### `Phoenix Wright: Ace Attorney 1,2,3 (2001, 2006, 2007, DS)  ⭐⭐⭐⭐⭐⭐⭐⭐❤️`
+#### `Phoenix Wright: Ace Attorney 1,2,3 (2001, 2006, 2007, DS)  ⭐⭐⭐⭐⭐⭐⭐⭐⭐❤️`
 
-- Visuals/Sound: ⭐
+- Visuals/Sound: ⭐⭐
 - Story: ⭐⭐⭐
 - Gameplay:
 - Engagement: ⭐⭐⭐❤️
