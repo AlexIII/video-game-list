@@ -6,6 +6,13 @@
 
 ### 2025
 
+#### `Hollow Knight (2017, PC)                  ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐❤️`
+
+- Visuals/Sound: ⭐⭐
+- Story: ⭐⭐
+- Gameplay: ⭐⭐⭐
+- Engagement: ⭐⭐⭐❤️
+
 #### `Sword of the Sea (2025, PC)               ⭐⭐⭐⭐⭐`
 
 - Visuals/Sound: ⭐⭐
