@@ -6,6 +6,13 @@
 
 ### 2025
 
+#### `Primordia (2012, PC)                      ⭐⭐⭐⭐⭐⭐❤️`
+
+- Visuals/Sound: ⭐
+- Story: ⭐⭐⭐❤️
+- Gameplay:
+- Engagement: ⭐⭐
+
 #### `Hollow Knight (2017, PC)                  ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐❤️`
 
 - Visuals/Sound: ⭐⭐
