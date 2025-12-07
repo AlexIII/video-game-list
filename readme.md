@@ -6,7 +6,19 @@
 
 ### 2025
 
+#### `Routine (2025, PC)                      ⭐⭐⭐⭐⭐`
+
+[watched walkthrough, did not play myself]
+
+- Visuals/Sound: ⭐⭐
+- Story: ⭐⭐
+- Gameplay:
+- Engagement: ⭐
+
+
 #### `Primordia (2012, PC)                      ⭐⭐⭐⭐⭐⭐❤️`
+
+[watched walkthrough, did not play myself]
 
 - Visuals/Sound: ⭐
 - Story: ⭐⭐⭐❤️
@@ -462,5 +474,3 @@
 - Atomfall (2023) [PC]
 - Astro Bot (2023) [PS5]
 - Fe (2018)
-- New Tales from the Borderlands (2022) [PC]
-- Deliver Us The Moon (2018) [PC]
