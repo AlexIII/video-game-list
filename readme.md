@@ -4,9 +4,19 @@
 
 ## Completed
 
+### 2026
+
+#### `The Outer Worlds 2 (2025, PC)             ⭐⭐⭐⭐⭐⭐⭐⭐`
+
+- Visuals/Sound: ⭐⭐
+- Story: ⭐⭐
+- Gameplay: ⭐⭐
+- Engagement: ⭐⭐
+
+
 ### 2025
 
-#### `Routine (2025, PC)                      ⭐⭐⭐⭐⭐`
+#### `Routine (2025, PC)                        ⭐⭐⭐⭐⭐`
 
 [watched walkthrough, did not play myself]
 
