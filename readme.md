@@ -6,6 +6,14 @@
 
 ### 2026
 
+#### `Hi-Fi Rush (2023, PC)                     ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐❤️`
+
+- Visuals/Sound: ⭐⭐⭐❤️
+- Story: ⭐⭐
+- Gameplay: ⭐⭐⭐
+- Engagement: ⭐⭐⭐
+
+
 #### `The Outer Worlds 2 (2025, PC)             ⭐⭐⭐⭐⭐⭐⭐⭐`
 
 - Visuals/Sound: ⭐⭐
@@ -479,8 +487,6 @@
 
 ## TODO
 
-- Hi-Fi Rush (2023) [PC]
 - Obduction (2016) [PC]
 - Atomfall (2023) [PC]
 - Astro Bot (2023) [PS5]
-- Fe (2018)
