@@ -6,6 +6,14 @@
 
 ### 2026
 
+#### `SANABI: A Haunted Day (DLC) (2025, PC)    ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐`
+
+- Visuals/Sound: ⭐⭐⭐
+- Story: ⭐
+- Gameplay: ⭐⭐⭐
+- Engagement: ⭐⭐⭐
+
+
 #### `Hi-Fi Rush (2023, PC)                     ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐❤️`
 
 - Visuals/Sound: ⭐⭐⭐❤️
