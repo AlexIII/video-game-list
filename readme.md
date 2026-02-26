@@ -6,6 +6,14 @@
 
 ### 2026
 
+#### `Celeste (2018, PC)                        ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐❤️`
+
+- Visuals/Sound: ⭐⭐⭐❤️
+- Story: ⭐⭐⭐
+- Gameplay: ⭐⭐⭐
+- Engagement: ⭐⭐⭐
+
+
 #### `SANABI: A Haunted Day (DLC) (2025, PC)    ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐`
 
 - Visuals/Sound: ⭐⭐⭐
@@ -30,7 +38,7 @@
 - Engagement: ⭐⭐
 
 
-### 2025
+### 2025 [30 games completed]
 
 #### `Routine (2025, PC)                        ⭐⭐⭐⭐⭐`
 
@@ -116,10 +124,10 @@
 - Gameplay: ⭐
 - Engagement: ⭐
 
-#### `SANABI (2023, PC)                         ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐❤️❤️`
+#### `SANABI (2023, PC)                         ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐❤️❤️`
 
 - Visuals/Sound: ⭐⭐⭐❤️
-- Story: ⭐⭐
+- Story: ⭐⭐⭐
 - Gameplay: ⭐⭐⭐❤️
 - Engagement: ⭐⭐⭐
 
@@ -262,7 +270,7 @@
 - Engagement: ⭐
 
 
-### 2024
+### 2024 [9 games completed]
 
 #### `Faith The Unholy Trinity (2017, PC)       ⭐⭐⭐⭐⭐⭐⭐⭐❤️`
 
@@ -354,7 +362,7 @@
 - Gameplay:
 - Engagement: ⭐
 
-### 2023
+### 2023 [3 games completed]
 
 #### `The Entropy Centre (2022, PC)             ⭐⭐⭐⭐⭐⭐⭐⭐`
 
@@ -386,7 +394,7 @@
 - Gameplay: ⭐
 - Engagement: ⭐
 
-### 2022
+### 2022 [8 games completed]
 
 #### `Pode (2018, PC)                           ⭐⭐⭐⭐`
 
