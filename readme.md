@@ -6,6 +6,13 @@
 
 ### 2026
 
+#### `Hollow Knight: Silksong (2025, PC)     ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐❤️❤️❤️`
+
+- Visuals/Sound: ⭐⭐⭐❤️
+- Story: ⭐⭐⭐❤️
+- Gameplay: ⭐⭐⭐❤️
+- Engagement: ⭐⭐⭐
+
 #### `Celeste (2018, PC)                        ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐❤️`
 
 - Visuals/Sound: ⭐⭐⭐❤️
