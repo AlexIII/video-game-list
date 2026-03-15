@@ -6,7 +6,14 @@
 
 ### 2026
 
-#### `Hollow Knight: Silksong (2025, PC)     ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐❤️❤️❤️`
+#### `Eastward (2021, PC)                       ⭐⭐⭐⭐⭐⭐⭐⭐⭐❤️`
+
+- Visuals/Sound: ⭐⭐
+- Story: ⭐⭐⭐❤️
+- Gameplay: ⭐⭐
+- Engagement: ⭐⭐
+
+#### `Hollow Knight: Silksong (2025, PC)        ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐❤️❤️❤️`
 
 - Visuals/Sound: ⭐⭐⭐❤️
 - Story: ⭐⭐⭐❤️
