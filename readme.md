@@ -6,6 +6,14 @@
 
 ### 2026
 
+#### `LUNA The Shadow Dust (2020, PC)           ⭐⭐⭐⭐⭐⭐`
+
+- Visuals/Sound: ⭐⭐
+- Story: ⭐
+- Gameplay: ⭐
+- Engagement: ⭐⭐
+
+
 #### `Refunct (2015, PC)                        ⭐⭐⭐`
 
 [short]
@@ -14,7 +22,6 @@
 - Story:
 - Gameplay: ⭐
 - Engagement: ⭐
-
 
 #### `Eastward (2021, PC)                       ⭐⭐⭐⭐⭐⭐⭐⭐⭐❤️`
 
