@@ -6,6 +6,20 @@
 
 ### 2026
 
+#### `Hail to the Rainbow (2025, PC)           ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐❤️`
+
+- Visuals/Sound: ⭐⭐⭐
+- Story: ⭐⭐⭐❤️
+- Gameplay: ⭐
+- Engagement: ⭐⭐⭐
+
+#### `Half-Life: Alyx (2020, PC)                ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐❤️❤️`
+
+- Visuals/Sound: ⭐⭐⭐❤️
+- Story: ⭐⭐⭐❤️
+- Gameplay: ⭐⭐⭐
+- Engagement: ⭐⭐⭐
+
 #### `LUNA The Shadow Dust (2020, PC)           ⭐⭐⭐⭐⭐⭐`
 
 - Visuals/Sound: ⭐⭐
@@ -53,10 +67,10 @@
 - Engagement: ⭐⭐⭐
 
 
-#### `Hi-Fi Rush (2023, PC)                     ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐❤️`
+#### `Hi-Fi Rush (2023, PC)                     ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐❤️`
 
 - Visuals/Sound: ⭐⭐⭐❤️
-- Story: ⭐⭐
+- Story: ⭐
 - Gameplay: ⭐⭐⭐
 - Engagement: ⭐⭐⭐
 
