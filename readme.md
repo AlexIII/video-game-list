@@ -6,6 +6,53 @@
 
 ### 2026
 
+#### `MAHOUTEQ! (2025, PC)                      ⭐⭐⭐⭐⭐⭐⭐⭐❤️`
+
+[short]
+
+- Visuals/Sound: ⭐⭐
+- Story: ⭐⭐⭐❤️
+- Gameplay:
+- Engagement: ⭐⭐⭐
+
+#### `q.u.q. (2023, PC)                         ⭐⭐⭐⭐⭐`
+
+[short]
+
+- Visuals/Sound: ⭐⭐
+- Story: ⭐
+- Gameplay:
+- Engagement: ⭐⭐
+
+
+#### `Milk inside a bag of milk inside a bag of milk (2020, PC)     ⭐⭐⭐⭐⭐`
+
+[short]
+
+- Visuals/Sound: ⭐
+- Story: ⭐
+- Gameplay:
+- Engagement: ⭐⭐⭐
+
+
+#### `Z.A.T.O. // I Love the World and Everything In It (2025, PC)  ⭐⭐⭐⭐⭐⭐⭐⭐⭐❤️`
+
+[visual novel]
+
+- Visuals/Sound: ⭐⭐⭐
+- Story: ⭐⭐⭐❤️
+- Gameplay: N/A
+- Engagement: ⭐⭐⭐
+
+#### `Return To Ash (2025, PC)                  ⭐⭐⭐⭐⭐⭐`
+
+[short]
+
+- Visuals/Sound: ⭐
+- Story: ⭐⭐
+- Gameplay:
+- Engagement: ⭐⭐⭐
+
 #### `Hail to the Rainbow (2025, PC)           ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐❤️`
 
 - Visuals/Sound: ⭐⭐⭐
