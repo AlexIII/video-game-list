@@ -8,7 +8,7 @@
 
 #### `MAHOUTEQ! (2025, PC)                      ⭐⭐⭐⭐⭐⭐⭐⭐❤️`
 
-[short]
+[visual novel, short]
 
 - Visuals/Sound: ⭐⭐
 - Story: ⭐⭐⭐❤️
@@ -17,7 +17,7 @@
 
 #### `q.u.q. (2023, PC)                         ⭐⭐⭐⭐⭐`
 
-[short]
+[visual novel, short]
 
 - Visuals/Sound: ⭐⭐
 - Story: ⭐
@@ -27,7 +27,7 @@
 
 #### `Milk inside a bag of milk inside a bag of milk (2020, PC)     ⭐⭐⭐⭐⭐`
 
-[short]
+[visual novel, short]
 
 - Visuals/Sound: ⭐
 - Story: ⭐
@@ -37,7 +37,7 @@
 
 #### `Z.A.T.O. // I Love the World and Everything In It (2025, PC)  ⭐⭐⭐⭐⭐⭐⭐⭐⭐❤️`
 
-[visual novel]
+[visual novel, no choices]
 
 - Visuals/Sound: ⭐⭐⭐
 - Story: ⭐⭐⭐❤️
@@ -46,7 +46,7 @@
 
 #### `Return To Ash (2025, PC)                  ⭐⭐⭐⭐⭐⭐`
 
-[short]
+[visual novel, short]
 
 - Visuals/Sound: ⭐
 - Story: ⭐⭐
@@ -73,7 +73,6 @@
 - Story: ⭐
 - Gameplay: ⭐
 - Engagement: ⭐⭐
-
 
 #### `Refunct (2015, PC)                        ⭐⭐⭐`
 
@@ -181,7 +180,7 @@
 
 #### `Purrgatory (2021, PC)                     ⭐⭐⭐⭐⭐⭐⭐⭐⭐❤️`
 
-[short]
+[visual novel, short]
 
 - Visuals/Sound: ⭐⭐
 - Story: ⭐⭐⭐❤️
@@ -322,7 +321,7 @@
 
 #### `Tails Noir: Prologue (2022, PC)           ⭐⭐⭐⭐`
 
-[short]
+[visual novel, short]
 
 - Visuals/Sound: ⭐
 - Story: ⭐⭐
