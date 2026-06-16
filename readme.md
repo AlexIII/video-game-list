@@ -1,4 +1,4 @@
-# List of video games I liked very much
+# 🎮 List of video games I liked very much
 
 *Note on the "star" system: I liked all of these games and consider them to have a base score of "average" (no stars). Stars (up to 3 per category) indicate additional points.*
 
