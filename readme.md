@@ -6,6 +6,14 @@
 
 ### 2026
 
+#### `Atomic Heart (2023, PC)                   ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐❤️`
+
+- Visuals/Sound: ⭐⭐⭐
+- Story: ⭐⭐⭐❤️
+- Gameplay: ⭐⭐
+- Engagement: ⭐⭐⭐
+
+
 #### `MAHOUTEQ! (2025, PC)                      ⭐⭐⭐⭐⭐⭐⭐⭐❤️`
 
 [visual novel, short]
