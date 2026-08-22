@@ -6,7 +6,15 @@
 
 ### 2026
 
-#### `Atomic Heart (2023, PC)                   ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐❤️`
+#### `Need for Speed Heat (2023, PC)            ⭐⭐⭐⭐⭐⭐⭐⭐`
+
+- Visuals/Sound: ⭐⭐
+- Story: ⭐
+- Gameplay: ⭐⭐⭐
+- Engagement: ⭐⭐
+
+
+#### `Atomic Heart (+DLC) (2023, PC)            ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐❤️`
 
 - Visuals/Sound: ⭐⭐⭐
 - Story: ⭐⭐⭐❤️
