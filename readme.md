@@ -13,7 +13,7 @@
 
 - Visuals/Sound: ⭐
 - Story: ⭐⭐
-- Gameplay:
+- Gameplay: N/A
 - Engagement: ⭐⭐⭐
 
 
@@ -39,7 +39,7 @@
 
 - Visuals/Sound: ⭐⭐
 - Story: ⭐⭐⭐❤️
-- Gameplay:
+- Gameplay: N/A
 - Engagement: ⭐⭐⭐
 
 #### `q.u.q. (2023, PC)                         ⭐⭐⭐⭐⭐`
@@ -48,7 +48,7 @@
 
 - Visuals/Sound: ⭐⭐
 - Story: ⭐
-- Gameplay:
+- Gameplay: N/A
 - Engagement: ⭐⭐
 
 
@@ -58,7 +58,7 @@
 
 - Visuals/Sound: ⭐
 - Story: ⭐
-- Gameplay:
+- Gameplay: N/A
 - Engagement: ⭐⭐⭐
 
 
@@ -77,7 +77,7 @@
 
 - Visuals/Sound: ⭐
 - Story: ⭐⭐
-- Gameplay:
+- Gameplay: N/A
 - Engagement: ⭐⭐⭐
 
 #### `Hail to the Rainbow (2025, PC)           ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐❤️`
