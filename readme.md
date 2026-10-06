@@ -6,6 +6,17 @@
 
 ### 2026
 
+
+#### `Aviary Attorney (2015, PC)                ⭐⭐⭐⭐⭐⭐`
+
+[visual novel]
+
+- Visuals/Sound: ⭐
+- Story: ⭐⭐
+- Gameplay:
+- Engagement: ⭐⭐⭐
+
+
 #### `Need for Speed Heat (2023, PC)            ⭐⭐⭐⭐⭐⭐⭐⭐`
 
 - Visuals/Sound: ⭐⭐
