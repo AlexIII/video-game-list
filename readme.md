@@ -6,6 +6,13 @@
 
 ### 2026
 
+#### `Undertale (2015, PC)                      ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐❤️`
+
+- Visuals/Sound: ⭐⭐
+- Story: ⭐⭐⭐❤️
+- Gameplay: ⭐⭐
+- Engagement: ⭐⭐⭐
+
 
 #### `Aviary Attorney (2015, PC)                ⭐⭐⭐⭐⭐⭐`
 
