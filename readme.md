@@ -6,6 +6,14 @@
 
 ### 2026
 
+#### `Static Dread: The Submarine (2026, PC)    ⭐⭐⭐⭐⭐⭐`
+
+- Visuals/Sound: ⭐
+- Story: ⭐⭐
+- Gameplay: ⭐
+- Engagement: ⭐⭐
+
+
 #### `Undertale (2015, PC)                      ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐❤️`
 
 - Visuals/Sound: ⭐⭐
