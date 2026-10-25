@@ -6,6 +6,14 @@
 
 ### 2026
 
+#### `Provoron (2026, PC)                       ⭐⭐⭐⭐⭐⭐⭐`
+
+- Visuals/Sound: ⭐⭐
+- Story: ⭐⭐⭐
+- Gameplay:
+- Engagement: ⭐⭐
+
+
 #### `Static Dread: The Submarine (2026, PC)    ⭐⭐⭐⭐⭐⭐`
 
 - Visuals/Sound: ⭐
