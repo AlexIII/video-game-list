@@ -6,6 +6,14 @@
 
 ### 2026
 
+#### `MOLE (2026, PC)                           ⭐⭐⭐⭐⭐⭐⭐`
+
+- Visuals/Sound: ⭐
+- Story: ⭐⭐
+- Gameplay: ⭐
+- Engagement: ⭐⭐⭐
+
+
 #### `Provoron (2026, PC)                       ⭐⭐⭐⭐⭐⭐⭐`
 
 - Visuals/Sound: ⭐⭐
