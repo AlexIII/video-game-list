@@ -6,6 +6,13 @@
 
 ### 2026
 
+#### `The Midnight Walk (2025, PC)              ⭐⭐⭐⭐`
+
+- Visuals/Sound: ⭐⭐
+- Story: ⭐
+- Gameplay: ⭐
+- Engagement:
+
 #### `MOLE (2026, PC)                           ⭐⭐⭐⭐⭐⭐⭐`
 
 - Visuals/Sound: ⭐
