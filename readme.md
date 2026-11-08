@@ -6,12 +6,37 @@
 
 ### 2026
 
+#### `Moon-Oriented Autonomous Biological Model (2026, PC)      ⭐⭐`
+
+[short]
+
+- Visuals/Sound:
+- Story: ⭐
+- Gameplay:
+- Engagement: ⭐
+
+#### `Slay the Princess (2023, PC)              ⭐⭐⭐⭐`
+
+- Visuals/Sound: ⭐
+- Story: ⭐
+- Gameplay:
+- Engagement: ⭐⭐
+
+#### `Mesmalie (2026, PC)                       ⭐`
+
+- Visuals/Sound: ⭐
+- Story:
+- Gameplay:
+- Engagement:
+
+
 #### `The Midnight Walk (2025, PC)              ⭐⭐⭐⭐`
 
 - Visuals/Sound: ⭐⭐
 - Story: ⭐
 - Gameplay: ⭐
 - Engagement:
+
 
 #### `MOLE (2026, PC)                           ⭐⭐⭐⭐⭐⭐⭐`
 
