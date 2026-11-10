@@ -22,11 +22,11 @@
 - Gameplay:
 - Engagement: ⭐
 
-#### `Slay the Princess (2023, PC)              ⭐⭐⭐⭐`
+#### `Slay the Princess (2023, PC)              ⭐⭐⭐⭐⭐`
 
 - Visuals/Sound: ⭐
 - Story: ⭐
-- Gameplay:
+- Gameplay: ⭐
 - Engagement: ⭐⭐
 
 #### `Mesmalie (2026, PC)                       ⭐`
