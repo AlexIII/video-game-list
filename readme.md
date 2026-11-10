@@ -6,6 +6,13 @@
 
 ### 2026
 
+#### `Wavetale (2022, PC)                       ⭐⭐⭐⭐⭐⭐⭐`
+
+- Visuals/Sound: ⭐
+- Story: ⭐
+- Gameplay: ⭐⭐⭐
+- Engagement: ⭐⭐
+
 #### `Moon-Oriented Autonomous Biological Model (2026, PC)      ⭐⭐`
 
 [short]
