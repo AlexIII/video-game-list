@@ -6,6 +6,13 @@
 
 ### 2026
 
+#### `Mouthwashing (2024, PC)                   ⭐⭐⭐⭐⭐⭐⭐`
+
+- Visuals/Sound: ⭐
+- Story: ⭐⭐
+- Gameplay: ⭐
+- Engagement: ⭐⭐⭐
+
 #### `Wavetale (2022, PC)                       ⭐⭐⭐⭐⭐⭐⭐`
 
 - Visuals/Sound: ⭐
@@ -22,11 +29,11 @@
 - Gameplay:
 - Engagement: ⭐
 
-#### `Slay the Princess (2023, PC)              ⭐⭐⭐⭐⭐`
+#### `Slay the Princess (2023, PC)              ⭐⭐⭐⭐⭐⭐⭐`
 
 - Visuals/Sound: ⭐
-- Story: ⭐
-- Gameplay: ⭐
+- Story: ⭐⭐
+- Gameplay: ⭐⭐
 - Engagement: ⭐⭐
 
 #### `Mesmalie (2026, PC)                       ⭐`
