@@ -6,6 +6,13 @@
 
 ### 2026
 
+#### `Indika (2024, PC)                         ⭐⭐⭐⭐⭐⭐⭐`
+
+- Visuals/Sound: ⭐
+- Story: ⭐⭐
+- Gameplay: ⭐
+- Engagement: ⭐⭐⭐
+
 #### `Mouthwashing (2024, PC)                   ⭐⭐⭐⭐⭐⭐⭐`
 
 - Visuals/Sound: ⭐
